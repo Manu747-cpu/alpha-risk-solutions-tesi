@@ -27,4 +27,4 @@ La Struttura del progetto:
 - Preventivatore.WebApp
 
 Note:
-Il progetto è stato versionato tramite Git e pubblicato su GitHub come supporto alla documentazione del project work.
+Il progetto è stato versionato tramite Git e pubblicato su GitHub come supporto alla documentazione del project work, i file di configurazione presenti nella repository contengono valori di sviluppo o placeholder. Per l'utilizzo in ambienti reali è necessario impostare credenziali, chiavi e parametri di sicurezza appropriati.
